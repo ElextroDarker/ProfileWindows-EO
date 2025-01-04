@@ -8,5 +8,5 @@ This is a script to make the user profile page load links in a little window ins
 
 ## How to install
 - Install [Tampermonkey](https://www.tampermonkey.net/) in your browser
-- Copy the JavaScript (.js) file
+- Copy the JavaScript (.js) file content
 - Create a new script on Tampermonkey and paste
