@@ -10,3 +10,8 @@ This is a script to make the user profile page load links in a little window ins
 - Install [Tampermonkey](https://www.tampermonkey.net/) in your browser
 - Copy the JavaScript (.js) file content
 - Create a new script on Tampermonkey and paste
+
+## Screenshots
+![](Screenshots/ViewAll.jpg)
+![](Screenshots/Score.jpg)
+![](Screenshots/Song.jpg)
