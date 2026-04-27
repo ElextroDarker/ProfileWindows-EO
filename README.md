@@ -1,5 +1,5 @@
 # ProfileWindows-EO
-EtternaOnline profile script to allow opening links inside a window
+EtternaOnline profile script to allow opening links inside a window.
 
 This is a script to make the user profile page load links in a little window instead of reirecting. These links include:
 - Score links (basically scores listed in Recent and Top 10)
